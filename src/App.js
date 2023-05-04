@@ -1,4 +1,5 @@
 import './App.css';
+import { Searchbar } from './components/search/searchbar';
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
         <h2>A quick fix of your favorite Subreddits</h2>
       </header>
       <body>
-        
+        <Searchbar />
       </body>
     </div>
   );
