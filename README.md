@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### My Notes
+
+This app will be made to search a subreddit/topic and instantly bring up 5 posts related to that topic. The visual structure will look similar to Reddit, but simplified for ease of use. It will include a search bar near the logo and underneath will be the area where the 5 posts will load. 
+
+This app will use React, Redux and Git/GitHub to get the job done. Hopefully this simple app can be expanded by adding small features to specify search parameters and so on.
