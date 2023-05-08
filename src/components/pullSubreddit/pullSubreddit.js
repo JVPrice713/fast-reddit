@@ -1,5 +1,5 @@
 import React from "react";
 
-class PullSubreddit extends React.Component {
+export class PullSubreddit extends React.Component {
     
 };

@@ -12,3 +12,8 @@
   font-size: 1.5rem;
   color: white;
 }
+
+body.redditpost {
+  text-align: center;
+  background-color: white;
+}

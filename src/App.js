@@ -1,6 +1,7 @@
 import './App.css';
 import React from 'react';
 import { Searchbar } from './components/search/searchbar';
+import { PullSubreddit } from './components/pullSubreddit/pullSubreddit';
 
 
 function App() {
@@ -10,8 +11,9 @@ function App() {
         <h1>Fast Reddit</h1>
         <h2>A quick fix of your favorite Subreddits</h2>
       </header>
-      <body>
+      <body className="redditpost">
         <Searchbar />
+        <PullSubreddit />
       </body>
     </div>
   );
